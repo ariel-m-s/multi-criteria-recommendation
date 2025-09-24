@@ -2,12 +2,6 @@
 
 ![Diagram](docs/paper/static/diagram.png)
 
-## Contact information
-
-- Name: Ariel Martínez Silberstein
-- University: Pontifical Catholic University of Chile (Santiago, Chile)
-- Email: amartinez5@uc.cl
-
 ## Abstract
 
 Although multi-criteria rating systems —in which the rating is composed of a vector along several criteria— are being commonly employed in the industry, recommendation systems that use them correspond to a largely unexplored area. Several reviews show that multi-criteria ratings can be leveraged to produce better personalized recommendations, as compared to traditional techniques. However, much additional work is needed to make significant improvements. To this end, in this paper, we empirically test out two different multi-criteria recommendation models in order to evaluate their rating estimation performance. Our results do not conclude any improvement. Nevertheless, they can be considered as one more step towards the science of understanding the underlying value of multi-criteria ratings.
