@@ -8,7 +8,7 @@ Although multi-criteria rating systems —in which the rating is composed of a v
 
 ## Important directories and files
 
-- [`docs/paper/`](docs/paper/): the paper.
+- [`docs/paper/`](docs/paper/An%20Evaluation%20of%20Multi-Criteria%20Recommendation%20Techniques%20(Martínez%20A.%2C%202020).pdf): the paper.
 - [`knn/__init__.py`](knn/__init__.py): the multi-criteria KNN implementation.
 - [`knn/similarity.py`](knn/similarity.py): the similarity metrics used in this work.
 - [`utils.py`](utils.py): some useful functions used by the program.
